@@ -1,5 +1,5 @@
 # Login Gamer
-Modelo de Site para Venda de Cursos <br>
+Modelo de Tela de Login da temática Gamer<br>
 Tecnologias Usadas: <br>
 
 <div>
@@ -18,4 +18,4 @@ Projeto Individual, criação da codificação de uma Tela de Login contendo mod
 
 Link: https://luizdev271.github.io/Login-Gamer/
 
-Inspiração: https://ocaradomercado.com.br/
+Inspiração: https://www.behance.net/gallery/174555813/Tela-de-Login/modules/985696455
