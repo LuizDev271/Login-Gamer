@@ -201,6 +201,7 @@ dialog{
 
 @media (max-width: 518.98px){
     h1{
+        display: none;
         padding: 20px 0 0 0;
         font-size: 35px;
         line-height: 40px;
