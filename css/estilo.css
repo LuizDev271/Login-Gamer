@@ -198,3 +198,20 @@ dialog{
         filter: blur(0);
     }
 }
+
+@media (max-width: 518.98px){
+    h1{
+        padding: 20px 0 0 0;
+        font-size: 35px;
+        line-height: 40px;
+        text-align: center;
+    }
+
+    .row{
+        padding-top: 50px;
+    }
+
+    #fechar{
+        right: -5px;
+    }
+}
